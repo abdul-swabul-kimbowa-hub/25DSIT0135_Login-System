@@ -1,0 +1,15 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swo
+*.swp
+
+# Log files
+*.log
+
+# Project specific (optional - uncomment if needed)
+# config/database.php
